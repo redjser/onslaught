@@ -1,0 +1,12 @@
+{
+  "name": "mygame",
+  "version": "1.0.0",
+  "description": "my first game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "author": "star",
+  "license": "ISC"
+}
